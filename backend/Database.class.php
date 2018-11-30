@@ -1,8 +1,5 @@
 <?php
 
-// $db = new database
-// $db->connect();
-
 class database {
 
     private $db;
