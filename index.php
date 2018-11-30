@@ -1,7 +1,7 @@
 <?php
 
-require_once("backend/require.php");
-require_once("frontend/require.php");
+require_once(__DIR__."/backend/require.php");
+require_once(__DIR__."/frontend/require.php");
 ?>
 
 
